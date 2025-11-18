@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shoppapp/static/css/main.288dd30b.css",
+    "main.js": "/shoppapp/static/js/main.699ed55f.js",
+    "static/js/453.5d53d93b.chunk.js": "/shoppapp/static/js/453.5d53d93b.chunk.js",
+    "static/media/chloe.jpg": "/shoppapp/static/media/chloe.b77119dd5848ee46f51b.jpg",
+    "static/media/dolce.jpg": "/shoppapp/static/media/dolce.2772ef2c7f267e67132f.jpg",
+    "static/media/gucci1.jpg": "/shoppapp/static/media/gucci1.069ab05cc5d75172c3cc.jpg",
+    "static/media/himg.jpg": "/shoppapp/static/media/himg.5cb3dc19b4bd8e015b8b.jpg",
+    "static/media/gucci2.jpg": "/shoppapp/static/media/gucci2.60286ed37590c374d438.jpg",
+    "static/media/balenciaga.jpg": "/shoppapp/static/media/balenciaga.c7c1b4bbb06c913ae39e.jpg",
+    "static/media/dior.jpg": "/shoppapp/static/media/dior.54b334ad5754636719eb.jpg",
+    "static/media/logo.png": "/shoppapp/static/media/logo.3e6df006e2a5f2c8307f.png",
+    "index.html": "/shoppapp/index.html",
+    "main.288dd30b.css.map": "/shoppapp/static/css/main.288dd30b.css.map",
+    "main.699ed55f.js.map": "/shoppapp/static/js/main.699ed55f.js.map",
+    "453.5d53d93b.chunk.js.map": "/shoppapp/static/js/453.5d53d93b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.288dd30b.css",
+    "static/js/main.699ed55f.js"
+  ]
+}
